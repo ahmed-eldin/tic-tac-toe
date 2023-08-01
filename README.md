@@ -1,5 +1,6 @@
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img width="784" alt="Screenshot 2023-08-01 at 5 56 40 PM" src="https://github.com/ahmed-eldin/tic-tac-toe/assets/111728755/da53e9b9-896f-4538-9a62-3f1f30e83806">
+
 
 
 # JavaScript Tic Tac Toe Game
